@@ -26,7 +26,7 @@ O script cria os seguintes recursos:
 
 1. Clone este repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone wagner-damiao/cloudbuilders_sample
    cd <nome-do-repositorio>
 
 Dê permissão de execução ao script:
