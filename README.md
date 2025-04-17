@@ -65,5 +65,3 @@ Contribuição
 Contribuições são bem-vindas! Por favor, sinta-se à vontade para enviar pull requests ou abrir issues para melhorias ou correções.
 Licença
 MIT
-
-Este formato já está pronto para ser adicionado diretamente ao seu repositório Git como README.md.
